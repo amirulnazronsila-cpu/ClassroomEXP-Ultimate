@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 300" role="img" aria-label="Cikgu Amirul avatar">
+<defs><radialGradient id="sk" cx=".45" cy=".4" r=".7"><stop offset="0" stop-color="#E8B28A"/><stop offset="1" stop-color="#C5865D"/></radialGradient>
+<linearGradient id="su" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2A2F45"/><stop offset="1" stop-color="#161927"/></linearGradient>
+<linearGradient id="ha" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3A2B22"/><stop offset="1" stop-color="#140E0B"/></linearGradient></defs>
+<ellipse class="sh" cx="120" cy="294" rx="72" ry="7" fill="#000" opacity=".25"/>
+<g class="bob">
+<g class="armL"><path d="M58 240C42 256 38 282 40 300H66C64 280 68 262 76 250Z" fill="url(#su)"/></g>
+<path d="M44 300C44 244 74 216 120 213C166 216 196 244 196 300Z" fill="url(#su)"/>
+<path d="M99 214L120 262L141 214Z" fill="#F4F4F0"/>
+<path d="M97 213L120 262L105 241L86 232Z" fill="#323852"/><path d="M143 213L120 262L135 241L154 232Z" fill="#323852"/>
+<path d="M112 215H128L125 227H115Z" fill="#101116"/><path d="M115 227H125L130 268L120 281L110 268Z" fill="#101116"/><path d="M121 230L125 262" stroke="#3B3F50" stroke-width="2"/>
+<rect x="150" y="242" width="40" height="13" rx="2" fill="#0E0E10"/><rect x="152" y="244" width="9" height="9" fill="#F2F2EE"/><circle cx="156.5" cy="248.5" r="2.6" fill="#D4A72C"/><text x="176" y="251.5" font-size="6.5" font-family="Arial" font-weight="700" fill="#fff" text-anchor="middle">AMIRUL</text>
+<rect x="106" y="182" width="28" height="34" rx="6" fill="#B87A54"/>
+<g class="head">
+<ellipse cx="63" cy="128" rx="10" ry="14" fill="#C9895F"/><ellipse cx="177" cy="128" rx="10" ry="14" fill="#C9895F"/>
+<path d="M62 118C62 70 88 54 120 54C152 54 178 70 178 118C178 160 156 192 120 192C84 192 62 160 62 118Z" fill="url(#sk)"/>
+<path d="M98 168C104 186 136 186 142 168C136 178 104 178 98 168Z" fill="#4A3328" opacity=".28"/>
+<path d="M60 116C54 70 78 40 120 38C160 36 188 62 180 116C176 98 172 90 166 86L162 74C140 82 104 84 80 76L76 88C68 94 63 104 60 116Z" fill="url(#ha)"/>
+<path d="M76 84C70 46 106 18 150 26C178 32 190 56 180 86C170 64 146 54 116 60C98 64 84 72 76 84Z" fill="url(#ha)"/>
+<path d="M92 66C104 46 132 38 156 44M100 74C112 60 134 54 160 58" stroke="#6A5446" stroke-width="2.2" fill="none" stroke-linecap="round" opacity=".55"/>
+<path d="M82 105Q97 96 110 102M130 102Q143 96 158 105" stroke="#22160F" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+<g class="eyes"><ellipse cx="98" cy="121" rx="5.5" ry="5" fill="#24170F"/><ellipse cx="142" cy="121" rx="5.5" ry="5" fill="#24170F"/><circle cx="100" cy="119" r="1.6" fill="#fff"/><circle cx="144" cy="119" r="1.6" fill="#fff"/></g>
+<g fill="#fff" fill-opacity=".14" stroke="#D2AA5E" stroke-width="3"><circle cx="98" cy="121" r="18"/><circle cx="142" cy="121" r="18"/></g>
+<path d="M116 118Q120 113 124 118M80 116L66 113M160 116L174 113" stroke="#D2AA5E" stroke-width="3" fill="none"/>
+<path class="gl" d="M86 112Q92 106 100 105M130 112Q136 106 144 105" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".8"/>
+<path d="M121 128Q116 142 119 146Q123 148 127 145" stroke="#A86C4A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="86" cy="146" r="9" fill="#E77F7F" opacity=".14"/><circle cx="154" cy="146" r="9" fill="#E77F7F" opacity=".14"/>
+<path d="M105 157Q120 150 135 157Q120 161 105 157Z" fill="#4A3328" opacity=".5"/>
+<path class="mo" d="M109 164Q120 172 131 164" stroke="#7A3A2E" stroke-width="3" fill="none" stroke-linecap="round"/>
+</g>
+<g class="armR"><path d="M178 236C196 222 208 198 206 176L190 172C190 190 182 208 170 218Z" fill="url(#su)"/><path d="M188 172L207 176L208 168L189 165Z" fill="#F4F4F0"/><circle cx="198" cy="157" r="13" fill="#D99E76"/><ellipse cx="187" cy="160" rx="5" ry="8" fill="#D99E76" transform="rotate(-30 187 160)"/></g>
+</g></svg>
