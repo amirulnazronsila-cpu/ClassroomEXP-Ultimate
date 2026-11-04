@@ -1,4 +1,4 @@
-# Article Quest — Form 4 Worksheet
+# Article Quest — Form 4 & 5 Worksheet
 
 **Subject:** English (KSSM, CEFR-aligned) · **Level:** Form 4 · **Exam link:** SPM Paper 2 (Writing) — articles usually appear in Part 3 (200–250 words)
 
@@ -90,3 +90,89 @@ Your school magazine is preparing a Well-being Month issue. Write an article wit
 > Finally, take care of your mental health. Talk to a friend, a family member or the school counsellor when you feel worried. Sharing your problems is a sign of strength, not weakness.
 >
 > In conclusion, a healthy body and a happy mind go hand in hand. So, why not choose one tip and start today? Your future self will thank you!
+
+
+---
+
+# SPM Upgrade Pack (Form 4 & 5)
+
+**Level:** SPM Paper 2, Part 3 style · **Proficiency:** intermediate to advanced
+
+## SPM Boss Battle: Social Media — Friend or Foe?
+
+Your school magazine is publishing a special issue on ‘Teenagers and Technology’. The editor has invited students to write an **article** on the topic **‘Social media: friend or foe?’**
+
+In your article, you should write about:
+
+- the benefits of social media
+- the dangers of social media
+- your advice to teenagers
+
+Write your article in **200–250 words**.
+
+### Step 1: Decode the question (+20 XP)
+
+| Decoder | Your answer |
+|---|---|
+| Text type | |
+| Audience | |
+| Purpose | |
+| Must cover | |
+| Length | |
+
+### Step 2: Battle plan (5 minutes)
+
+| Paragraph | Job | My ideas |
+|---|---|---|
+| P1 | Hook + topic (~40 words) | |
+| P2 | Bullet 1: benefits + example (~50 words) | |
+| P3 | Bullet 2: dangers + example (~50 words) | |
+| P4 | Bullet 3: advice, 2–3 tips (~60 words) | |
+| P5 | Sum up + call to action (~30 words) | |
+
+### Step 3: Write, then score with the 4 SPM stats
+
+| Stat | What to check | XP |
+|---|---|---|
+| Content | All 3 bullets covered, relevant own ideas | /30 |
+| Communicative achievement | Semi-formal, engaging tone for teenage readers; hook | /25 |
+| Organisation | Clear paragraphs, varied linkers | /25 |
+| Language | Range of vocabulary and structures, accuracy | /20 |
+| **Total** | | **/100** |
+
+### Language upgrades (examples)
+
+| Level 1 | Level 10 |
+|---|---|
+| It is very important. | It is absolutely crucial. |
+| I think social media is bad. | There is no denying it has a dark side. |
+| Firstly… Secondly… | To begin with… On top of that… |
+| Fake news spreads very fast. | Fake news spreads like wildfire. |
+| You should try it. | Why not give it a shot? |
+| In conclusion, it is good and bad. | In a nutshell, it is a double-edged sword. |
+
+## Sample answer (about 210 words)
+
+> **Social Media: Your Best Friend or Worst Enemy?**
+> *by Aisyah Rahman, 5 Cemerlang*
+>
+> Picture this: it is midnight, your exam is tomorrow, yet your thumb is still scrolling through endless videos. Sounds familiar? Social media has become part of our daily lives, but is it really helping us, or quietly harming us?
+>
+> Without a doubt, social media has its perks. It keeps us connected with friends and family, even those living miles away. Moreover, platforms such as YouTube are treasure troves of free lessons, from solving quadratic equations to mastering a new language.
+>
+> However, every coin has two sides. Spending hours online can rob us of precious sleep and study time. Worse still, cyberbullying and fake news spread like wildfire, while endless comparison with picture-perfect influencers chips away at our self-esteem.
+>
+> So, how can we enjoy the best of both worlds? To begin with, set a daily time limit and stick to it. On top of that, think twice before you post anything, because once it is online, it stays online. Finally, follow accounts that inspire and educate you, rather than those that make you feel inadequate.
+>
+> In a nutshell, social media is neither a friend nor a foe; it is simply a tool. The real question is: will you control it, or will you let it control you? Take charge today!
+
+**Why it scores well**
+
+- **Content:** each bullet has its own paragraph (benefits, dangers, advice) with examples.
+- **Communicative achievement:** a scenario hook, rhetorical questions and direct address (“you”) suit teenage readers.
+- **Organisation:** five clear paragraphs linked by *Without a doubt, However, So, To begin with, On top of that, Finally, In a nutshell*.
+- **Language:** idioms (*every coin has two sides, like wildfire*), varied structures and precise vocabulary (*treasure troves, chips away at our self-esteem*).
+
+**Answer key: decoder**
+
+Text type: article (catchy title, no To/From) · Audience: fellow students, semi-formal and lively · Purpose: weigh the pros and cons, then advise · Must cover: all 3 bullets + own ideas · Length: 200–250 words
